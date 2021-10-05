@@ -13,8 +13,8 @@ pip install -r requirements.txt
 ## Estrutura do projeto
 
 ```bash
-├── datasets # imagens para o readme
-├── pandas.ipynb # arquivo principal
+├── datasets 
+├── pandas.ipynb 
 ├── README.md
-└── requeriments.txt # arquivo com nome das dependências de pacotes necessárias
+└── requeriments.txt
 ```
